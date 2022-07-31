@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+- I'm an Industrial Engineering undergraduate student at SNU. 
+- I'm fulfilling my military service in the Republic of Korea Army.
+- I'm currently studying C++ and PS.
+
+#### Keywords of my technical stack
+  - Langauges: Python, C#
+  - Data Manipulation or Mathematical Computing: Numpy, Pandas, PyTorch, ...
+  - Data Science: Data Engineering, Data Analysis(especailly with consulting in game industry), Deep Learning
+  - Computer Vision: Motion Capture, 3D Human Pose Estimation
+  - Infrastructure: AWS(OSS, RDS, DynamoDB, Kinesis, Lambda, CloudWatch, ...)
+  - etc: Flutter, Unity3D
+
+
 <!--
 **yongsyongs/yongsyongs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
