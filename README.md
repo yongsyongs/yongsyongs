@@ -7,7 +7,7 @@
 #### Keywords of my technical stack
   - Langauges: Python, C#
   - Data Manipulation or Mathematical Computing: Numpy, Pandas, PyTorch, ...
-  - Data Science: Data Engineering, Data Analysis(especailly with consulting in game industry), Deep Learning
+  - Data Science: Data Engineering, Data Analysis(especailly with consulting experiences in game industry), Deep Learning
   - Computer Vision: Motion Capture, 3D Human Pose Estimation
   - Infrastructure: AWS(OSS, RDS, DynamoDB, Kinesis, Lambda, CloudWatch, ...)
   - etc: Flutter, Unity3D
