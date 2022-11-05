@@ -1,17 +1,16 @@
-### Hi there 👋
+### 안녕하세요 👋
+- 개발자 나용수입니다!
+- 서울대학교 산업공학과 학부생이에요!
+- 현재 대한민국 육군에서 병역의 의무를 다하고 있어요!
+- 요즘에는 C++과 PS를 공부하고 있어요!
 
-- I'm an Industrial Engineering undergraduate student at SNU. 
-- I'm fulfilling my military service in the Republic of Korea Army.
-- I'm currently studying C++ and PS.
+#### 제 기술 스택으로는...
+  - 주 언어: Python, C#
+  - DB, pandas, NumPy, PyTorch 등 데이터 조작 및 수치연산
+  - 데이터 엔지니어링(AWS), 데이터 분석(고객사 컨설팅 경험 有), 딥러닝 등 데이터 과학
+  - 모션캡쳐와 3D Human Pose Estimation 등 컴퓨터 비전
 
-#### Keywords of my technical stack
-  - Langauges: Python, C#
-  - Data Manipulation or Mathematical Computing: Numpy, Pandas, PyTorch, ...
-  - Data Science: Data Engineering, Data Analysis(especailly with consulting experiences in game industry), Deep Learning
-  - Computer Vision: Motion Capture, 3D Human Pose Estimation
-  - Infrastructure: AWS(OSS, RDS, DynamoDB, Kinesis, Lambda, CloudWatch, ...)
-  - etc: Flutter, Unity3D
-
+등이 있어요.
 
 <!--
 **yongsyongs/yongsyongs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
