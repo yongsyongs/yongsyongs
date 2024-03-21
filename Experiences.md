@@ -10,7 +10,7 @@
 - The first data scientist of the company(AFI).
 - Data engineering in large system & customer data analysis for clients (Consulting).
 
-### Intership@InBody Co., Ltd.
+### Internship@InBody Co., Ltd.
 - 2020.07 ~ 2020.08
 - R&D / StartUp internship.
 - Motion capture & 3D human pose estimation.
@@ -30,7 +30,7 @@
 - 2020.09 ~ 2021.02
 - SW development outsourcing.
 
-### Intership@dm.snu.ac.kr
+### Internship@dm.snu.ac.kr
 - 2019.12 ~ 2020.03
 - Internship for undergraduate students @ SNU Big Data AI Center.
 - Analyzed stock data using real estate data.
