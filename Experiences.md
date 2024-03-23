@@ -7,25 +7,26 @@
 
 ### Data Engineer@AFI
 - 2021.07 ~ 2022.01
-- The first data scientist of the company(AFI).
-- Data engineering in large system & customer data analysis for clients (Consulting).
+- Data engineering in large system(1TB/day, 2000 logs/sec).
+- Data analysis of customer data for clients (Consulting).
 
 ### Internship@InBody Co., Ltd.
 - 2020.07 ~ 2020.08
 - R&D / StartUp internship.
-- Motion capture & 3D human pose estimation.
+- Motion capture.
+- 3D human pose estimation.
 
 ## Minor Experiences
 
 ### Back-end Engineer@Hanmesoft Corp.
 - 2023.08 ~ 2024.03
-- Data management of products and orders for an e-commerce service,
-- Integration with external marketplaces (such as Coupang, 11st), and
+- Data management of products and orders for an e-commerce service.
+- Integration with external marketplaces (such as Coupang, 11st).
 - Filtering for inappropriate products using deep learning(Nudity Detection).
 
 ### Research Engineer@Ruahlab Inc.
 - 2023.10 ~ 2024.02
-- Research engineer & Back-end architect on AWS,
+- Research engineer & Back-end architect on AWS.
 - Time series data(signals of sensors) processing & deep learning for sleep apnea detection.
 
 ### SW Engineer@Hanmesoft Corp.
