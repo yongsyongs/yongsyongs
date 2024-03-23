@@ -19,7 +19,9 @@
 
 ### Back-end Engineer@Hanmesoft Corp.
 - 2023.08 ~ 2024.03
-- Managed data of products and orders for an e-commerce service, integrated with external marketplaces (such as Coupang, 11st), and implemented filtering logic for inappropriate products(Nudity Detection).
+- Data management of products and orders for an e-commerce service,
+- Integration with external marketplaces (such as Coupang, 11st), and
+- Filtering for inappropriate products using deep learning(Nudity Detection).
 
 ### Research Engineer@Ruahlab Inc.
 - 2023.10 ~ 2024.02
