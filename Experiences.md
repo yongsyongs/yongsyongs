@@ -2,10 +2,6 @@
 
 ## Major Experiences
 
-### Cloud Engineer@MightWarrior Co.
-- 2024.03 ~ 2024.04
-- Constructed a K8S cluster (on AWS EKS) for cloud robotics system, including Loki & Redis.
-
 ### Data Engineer@AFI
 - 2021.07 ~ 2022.01
 - Data engineering in large system(1TB/day, 2000 logs/sec).
@@ -18,6 +14,10 @@
 - 3D human pose estimation.
 
 ## Minor Experiences
+
+### Cloud Engineer@MightWarrior Co.
+- 2024.03 ~ 2024.04
+- Constructed a K8S cluster (on AWS EKS) for cloud robotics system, including Loki & Redis.
 
 ### Back-end Engineer@Hanmesoft Corp.
 - 2023.08 ~ 2024.03
