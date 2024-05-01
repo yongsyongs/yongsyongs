@@ -3,7 +3,8 @@
 ## Major Experiences
 
 ### Cloud Engineer@MightWarrior Co.
-- 2024.03 ~
+- 2024.03 ~ 2024.04
+- Constructed a K8S cluster (on AWS EKS) for cloud robotics system, including Loki & Redis.
 
 ### Data Engineer@AFI
 - 2021.07 ~ 2022.01
