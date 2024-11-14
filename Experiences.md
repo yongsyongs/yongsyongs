@@ -15,7 +15,7 @@
 
 ## Minor Experiences
 
-### Short-term Project contractor@MightWarrior Co.
+### Short-term Project@MightWarrior Co.
 - 2024.03 ~ 2024.04
 - Worked as a cloud engineer.
 - Constructed a K8S cluster (on AWS EKS) for cloud robotics system, including Loki & Redis.
